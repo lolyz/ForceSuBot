@@ -14,8 +14,8 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "ENV": {
-      "description": "😎",
+    "MO_TECH_YT": {
+      "description": "✔️Created MRK.YT",
       "value": "False"
     },
     "APP_ID": {
