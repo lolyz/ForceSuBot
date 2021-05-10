@@ -8,7 +8,7 @@
   ],
   "success_url": "https://t.me/MT_ForceSubsBot",
   "website": "https://github.com/MRK-YT/",
-  "repository": "https://github.com/MRK-YT/MT-Force-SubsBot",
+  "repository": "",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
