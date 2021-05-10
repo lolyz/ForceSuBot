@@ -1,21 +1,21 @@
 {
-  "name": "MT-Force-SubsBot",
+  "name": "Force Sub Bot",
   "description": "Telegram's best Foruce Subscribe Bot",
   "keywords": [
-    "Telegram",
-    "Best",
-    "MT Force SubsBot"
+    "telegram",
+    "best",
+    "force sub Bot"
   ],
-  "success_url": "https://t.me/MT_ForceSubsBot",
-  "website": "https://github.com/MRK-YT/",
-  "repository": "",
+  "success_url": "https://t.me/DForDarkAngel",
+  "website": "https://github.com/Jijinr/force-subscribe-telegram-bot",
+  "repository": "https://github.com/MRK-YT/MT-Force-SubsBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "EVN": {
-      "description": "✔️Created MRK.YT",
+    "ENV": {
+      "description": "😎",
       "value": "False"
     },
     "APP_ID": {
