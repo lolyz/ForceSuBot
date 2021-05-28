@@ -42,11 +42,11 @@ def map(pos):
             [InlineKeyboardButton(text = '➪𝐍𝐞𝐱𝐭➪', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://github.com/MRK-YT/MT-Force-SubsBot/issues/new"
+        url = "https://github.com/lolyz/ForceSuBot/issues/new"
         button = [
-            [InlineKeyboardButton(text = '🔊𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔊', url="https://t.me/Mo_Tech_YT")],
+            [InlineKeyboardButton(text = '🔊𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔊', url="https://t.me/LgViral")],
             [InlineKeyboardButton(text = '😍𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 & 𝐈𝐬𝐬𝐮𝐞𝐬🤪', url=url)],
-            [InlineKeyboardButton(text = '💝𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐘𝐓💝', url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")],
+            [InlineKeyboardButton(text = '💝𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐘𝐓💝', url="https://youtube.com/channel/UCY7bwQmyLpocbk5_p2RvzYQ")],
             [InlineKeyboardButton(text = '🔙𝐁𝐚𝐜𝐤🔙', callback_data = f"help+{pos-1}")]
         ]
     else:
