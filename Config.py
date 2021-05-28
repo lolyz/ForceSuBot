@@ -30,7 +30,7 @@ class Messages():
         
         "⚙️👇𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗👇⚙️.\n\n➪ /ForceSubscribe - To get the current settings.\n➪ /ForceSubscribe no/off/disable -To turn of ForceSubscribe.\n➪ /ForceSubscribe clear - To unmute all members who muted by me.\n➪ /ForceSubscribe (channel username) - To turn on and setup the channel.\n\n𝐍𝐨𝐭𝐞 : /FSub is an alias of /ForceSubscribe.\n\n👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 👲: @SiPmks",
         
-        "📑𝐀𝐁𝐎𝐔𝐓 𝐌𝐄📑.\n\n🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href='https://t.me/ForceSuBot'>Force Subscriber Bot</a>.\n\n📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <code>Python3</code>.\n\n👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href='https://t.me/SiPmks'>MoTechYT</a>.\n\n📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href='https://t.me/LgViral'>Lagi Viral</a>.\n\n 📭𝗦𝗘𝗥𝗩𝗘𝗥 : <a href='https://Heroku.com/'>Heroku</a>.\n\n⭕𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href='https://t.me/SiPmks'>Price Now</a>"
+        "📑𝐀𝐁𝐎𝐔𝐓 𝐌𝐄📑.\n\n🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href='https://t.me/ForceSuBot'>Force Subscriber Bot</a>.\n\n📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <code>Python3</code>.\n\n👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href='https://t.me/SiPmks'>SiPmks</a>.\n\n📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href='https://t.me/LgViral'>Lagi Viral</a>.\n\n 📭𝗦𝗘𝗥𝗩𝗘𝗥 : <a href='https://Heroku.com/'>Heroku</a>.\n\n⭕𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href='https://t.me/SiPmks'>Price Now</a>"
       ]
 
       START_MSG = "**Hello [{}](tg://user?id={})**\n\n🙋𝐈 𝐂𝐚𝐧 𝐅𝐨𝐫𝐜𝐞 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐓𝐨 𝐉𝐨𝐢𝐧 𝐀 𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐂𝐡𝐚𝐧𝐧𝐞𝐥.\n\n𝐁𝐞𝐟𝐨𝐫𝐞 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐌𝐞𝐬𝐬𝐚𝐠𝐞𝐬 𝐈𝐧 𝐓𝐡𝐞 𝐆𝐫𝐨𝐮𝐩.\n\n𝐋𝐞𝐚𝐫𝐧 𝐌𝐨𝐫𝐞 𝐁𝐲 𝐂𝐥𝐢𝐜𝐤𝐢𝐧𝐠👉 /help"
